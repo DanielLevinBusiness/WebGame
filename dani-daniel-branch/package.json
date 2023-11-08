@@ -1,0 +1,14 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "* Metodology and team work\r * ide\\ workspace needed tools & keymap,extentions vscode.\r * dependencies package manager high level\r * design - uml and high level\r * Missions and responsibilties.\r * project name and story.\r * enviroment and deploymnet.",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pixi.js": "^5.3.7"
+  }
+}
